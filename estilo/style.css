@@ -66,7 +66,7 @@ nav{
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
 }
-nav>a{
+nav a{
     color: var(--cor1);
     text-decoration: none;
     padding: 10px;
@@ -78,6 +78,10 @@ nav>a{
 nav>a:hover{
     background-color: var(--cor3);
     color: var(--cor5);
+}
+#navbar{
+    width: 350px;
+    margin: auto;
 }
 
 
